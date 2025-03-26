@@ -62,7 +62,7 @@ A interface foi construída com **Bootstrap** para ser responsiva, permitindo a 
 
 Clone o repositório para sua máquina local:
 
-```bash
+    ```bash
 git clone https://github.com/seu-usuario/task-manager.git
 cd task-manager
 
