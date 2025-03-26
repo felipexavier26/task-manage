@@ -1,0 +1,4 @@
+# .htaccess
+
+RewriteEngine On
+RewriteRule ^task-api/login$ task-api/index.php [NC,L]
