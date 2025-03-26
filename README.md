@@ -2,9 +2,6 @@
 
 O **Task Manager** é uma aplicação web para gerenciar tarefas, onde o usuário pode realizar operações como criar, editar, listar e excluir tarefas. A aplicação utiliza uma API RESTful construída com **PHP puro** para gerenciar as tarefas e o login dos usuários. O frontend consome essa API utilizando **JavaScript**, com **AJAX** para comunicação assíncrona, e exibe as informações com uma interface **responsiva**, construída com **Bootstrap** e interações aprimoradas com **SweetAlert2** e **paginações**.
 
-## Link do Projeto
-
-- **Link para o repositório**: [Task Manager no GitHub](https://github.com/seu-usuario/task-manager)
 
 ## Tecnologias Utilizadas
 
@@ -62,7 +59,6 @@ A interface foi construída com **Bootstrap** para ser responsiva, permitindo a 
 
 Clone o repositório para sua máquina local:
 
-    ```bash
     git clone https://github.com/seu-usuario/task-manager.git
     cd task-manager
 
